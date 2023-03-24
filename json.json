@@ -1,0 +1,18 @@
+{"student": {
+  "group": "RT04",
+  "year": 2004,
+  "full": true,
+  "students": {
+    "best": [
+      {"name": ["Dave", "Mari", "Rob"]},
+      {"rate": [5, 5, 4]},
+      {"malegender": [true, false, true]}
+	  ],
+	  "worst": [
+      {"name": ["Oni", "Lock", "Gerard"]},
+      {"rate": [2, 2, 2]},
+      {"malegender": [true, null, true]}
+    
+    ]
+  }
+}}

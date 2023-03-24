@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student>
+  <group>RT04</group>
+  <year>2004</year>
+  <full>true</full>
+  <students>
+    <best>
+      <name>Dave</name>
+      <name>Mari</name>
+      <name>Rob</name>
+    </best>
+    <best>
+      <rate>5</rate>
+      <rate>5</rate>
+      <rate>4</rate>
+    </best>
+    <best>
+      <malegender>true</malegender>
+      <malegender>false</malegender>
+      <malegender>true</malegender>
+    </best>
+    <worst>
+      <name>Oni</name>
+      <name>Lock</name>
+      <name>Gerard</name>
+    </worst>
+    <worst>
+      <rate>2</rate>
+      <rate>2</rate>
+      <rate>2</rate>
+    </worst>
+    <worst>
+      <malegender>true</malegender>
+      <malegender></malegender>
+      <malegender>true</malegender>
+    </worst>
+  </students>
+</student>
