@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        Second Second2 = new Second();
+        Second second2 = new Second();
 
-        Second.printMethod();
+        second2.printMethod();
 
     }
 
