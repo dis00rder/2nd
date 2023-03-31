@@ -3,7 +3,7 @@ public class Main {
 
         Second second2 = new Second();
 
-        second2.printMethod();
+        System.out.println("~~~" +second2.printMethod() + "~~~");
 
     }
 
